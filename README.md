@@ -62,8 +62,4 @@ GROQ_API_KEY=your_groq_api_key
 streamlit run app.py
 ```
 
-## Note
-
-The chatbot answers based on the available college documents. If the required information is not found, it avoids making up answers.
-
 ---
