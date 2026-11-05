@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+chroma_db/
+data/college_docs/*.pdf
+data/college_docs/*.docx
+data/college_docs/*.txt
+data/college_docs/*.md
+.env
+.streamlit/secrets.toml
